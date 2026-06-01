@@ -51,8 +51,8 @@ I'm a 20-year-old developer currently messing around with autonomous agents in t
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthBansal007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBansal007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=SiddharthBansal007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SiddharthBansal007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
