@@ -56,6 +56,6 @@ I'm a 20-year-old developer currently messing around with autonomous agents in t
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SiddharthBansal007&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=SiddharthBansal007&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
