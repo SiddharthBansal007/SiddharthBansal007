@@ -48,14 +48,9 @@ I'm a 20-year-old developer currently messing around with autonomous agents in t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" style="margin:4px" />
 </p>
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=SiddharthBansal007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SiddharthBansal007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiddharthBansal007&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddharthBansal007/SiddharthBansal007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddharthBansal007/SiddharthBansal007/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SiddharthBansal007/SiddharthBansal007/output/github-contribution-grid-snake.svg" />
+</picture>
 
